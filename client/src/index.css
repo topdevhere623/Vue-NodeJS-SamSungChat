@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-amazon{
+ /* background-color: #008296; */
+ background-color: #102e8d;
+}
+
+.bg-amazon:hover{
+    opacity: 0.5;
+}
+html{
+    scroll-behavior: smooth;
+}
